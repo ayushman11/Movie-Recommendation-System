@@ -1,7 +1,7 @@
 # Movie Recommendation System
 Open the **ipynb** file using **Jupiter Notebook** and run all cells \
 Enter the name of your favourite movie \
-The ML model will suggest 5 movies similar to the input movie. \
+The ML model will suggest 5 movies similar to the input movie. 
 
 ## Libraries Used
 1. **Numpy** and **Pandas** for data handling and preprocessing
